@@ -218,7 +218,7 @@ img {
   position: relative;
   z-index: 1;
   padding: 200px 0;
-  background-image: url(./images/hero.jpg);
+  background-image: url(/images/hero.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
